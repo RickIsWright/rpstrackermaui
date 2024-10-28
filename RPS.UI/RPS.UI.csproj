@@ -9,7 +9,7 @@
 		<SingleProject>true</SingleProject>
 		<ImplicitUsings>enable</ImplicitUsings>
 
-		<!-- Display name -->
+		<!-- Display name  -->
 		<ApplicationTitle>RPS.UI</ApplicationTitle>
 
 		<!-- App Identifier -->
